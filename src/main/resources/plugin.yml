@@ -1,0 +1,7 @@
+name: PluginRegionTP
+version: '${version}'
+main: me.sturm.regiontp.RegionTPPlugin
+api-version: '1.16'
+depend: [ WorldGuard ]
+commands:
+  rgtp:
