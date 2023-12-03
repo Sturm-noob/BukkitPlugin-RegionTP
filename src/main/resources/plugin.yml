@@ -1,4 +1,4 @@
-name: PluginRegionTP
+name: RegionTP
 version: '${version}'
 main: me.sturm.regiontp.RegionTPPlugin
 api-version: '1.16'
